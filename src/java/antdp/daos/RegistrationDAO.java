@@ -107,10 +107,4 @@ public class RegistrationDAO {
         return check;
     }
 
-    
-
-    public static void main(String[] args)  {
-
-        
-    }
 }
